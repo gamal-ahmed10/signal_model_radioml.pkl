@@ -3,7 +3,7 @@ readme = """# 📡 RF Signal Classifier
 AI-powered web app that classifies radio signals (AM-DSB / FM / BPSK / QPSK) in real-time.
 
 ## 🚀 Live Demo
-https://signal-classifier-muwjznmmww9oqtthg4geyw.streamlit.app/
+https://ehm9aa2v9wnpnorbkyqxvk.streamlit.app/
 
 ## 🔬 How It Works
 The model extracts 9 features from each signal:
